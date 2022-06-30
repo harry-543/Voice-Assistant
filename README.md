@@ -7,7 +7,7 @@ This project uses the Google text-to-speech API
 
 ```
 pip install speechrecognition
-pip install pyttsx3
+pip install gtts
 pip install pyaudio
 pip install playsound
 pip install PyObjC
